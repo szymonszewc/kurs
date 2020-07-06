@@ -1,0 +1,7 @@
+D:\Program Files\PLIKI\CS\kurs\bin\Debug\kurs.exe.config
+D:\Program Files\PLIKI\CS\kurs\bin\Debug\kurs.exe
+D:\Program Files\PLIKI\CS\kurs\bin\Debug\kurs.pdb
+D:\Program Files\PLIKI\CS\kurs\obj\Debug\kurs.csprojAssemblyReference.cache
+D:\Program Files\PLIKI\CS\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\Program Files\PLIKI\CS\kurs\obj\Debug\kurs.exe
+D:\Program Files\PLIKI\CS\kurs\obj\Debug\kurs.pdb
